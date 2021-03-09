@@ -7,19 +7,19 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <img src="89206458_10157875734315336_7512461648305586176_o.jpg" alt="Simply Easy Learning" width="600"
-         height="600">
+  <img src="89206458_10157875734315336_7512461648305586176_o.jpg" alt="Simply Easy Learning" width="500"
+         height="500">
   <h1>Ricardo Parra-Cruz</h1>
   <h2>About</h2>
-  <p>
+  <p align="justify">
 I am an early career research scientist, who is passionate about industrial biotechnology, digital
 transformation, and bioengineering. I have 4+ years of experience in the field of protein,
 microbiology, and data science research. Besides, I have been closely involved with computational
 modeling tools, bioprocesses with an emphasis on waste management and recovery, as well as,
 process planning and biotech business development, which are crucial for the vaccine and pharma
 industry. I have strong experience working and leading multidisciplinary teams in Australia,
-Germany, South East Asia, UK, and Colombia.<>
-  </p><align="justify">
+Germany, South East Asia, UK, and Colombia.
+  </p>
    <h2>Skills</h2>
   <p>Python (basic), R, Molecular Dynamics, Gaussian, Project management Data analysis, and UNIX commands</p>
    <h2>Codes</h2>
