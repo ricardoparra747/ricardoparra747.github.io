@@ -26,7 +26,7 @@ Germany, South East Asia, UK, and Colombia.
   <p><a href="https://github.com/ricardoparra747" target="_blank">GitHub</a></p>
   <h2>Contact</h2>
   <p><a href="https://www.linkedin.com/in/ricardo-andr%C3%A9s-parra-cruz-phd-a7265247/" target="_blank">Linkedin</a></p>
-  <p><a href="https://www.https://twitter.com/ricardo_parrac?lang=en/" target="_blank">Twitter</a></p>
+  <p><a href="https://www.twitter.com/ricardo_parrac?lang=en/" target="_blank">Twitter</a></p>
   <p id="command-prompt">>_</p>
 </body>
 </html>
