@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Adam personal webpage </title>
+  <title>Ricardo's webpage </title>
   <link href="https://fonts.googleapis.com/css?family=Ubuntu|VT323&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
