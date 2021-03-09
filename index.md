@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <img src="89206458_10157875734315336_7512461648305586176_o.jpg" alt="Simply Easy Learning" width="200"
+  <img src="https://github.com/ricardoparra747/ricardoparra747.github.io89206458_10157875734315336_7512461648305586176_o.jpg" alt="Simply Easy Learning" width="200"
          height="80">
   <h1>Ricardo Parra-Cruz</h1>
   <h2>About</h2>
