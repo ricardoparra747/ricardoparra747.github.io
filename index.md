@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ricardoparra747/ricardoparracruz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricardoparra747/ricardoparracruz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adam personal webpage </title>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu|VT323&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Ricardo Parra-Cruz</h1>
+  <h2>About</h2>
+  <p>
+I am an early career research scientist, who is passionate about industrial biotechnology, digital
+transformation, and bioengineering. I have 4+ years of experience in the field of protein,
+microbiology, and data science research. Besides, I have been closely involved with computational
+modeling tools, bioprocesses with an emphasis on waste management and recovery, as well as,
+process planning and biotech business development, which are crucial for the vaccine and pharma
+industry. I have strong experience working and leading multidisciplinary teams in Australia,
+Germany, South East Asia, UK, and Colombia.
+  </p>
+   <h2>Skills</h2>
+  <p>Python (basic), R, Molecular Dynamics, Gaussian, Project management Data analysis, and UNIX commands</p>
+   <h2>Stuff</h2>
+  <p><a href="https://github.com/ricardoparra747" target="_blank">GitHub</a></p>
+  <h2>Contact</h2>
+  <p><a href="https://www.linkedin.com/in/ricardo-andr%C3%A9s-parra-cruz-phd-a7265247/" target="_blank">Linkedin</a></p>
+  <p id="command-prompt">>_</p>
+</body>
+</html>
