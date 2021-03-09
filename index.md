@@ -18,7 +18,7 @@ microbiology, and data science research. Besides, I have been closely involved w
 modeling tools, bioprocesses with an emphasis on waste management and recovery, as well as,
 process planning and biotech business development, which are crucial for the vaccine and pharma
 industry. I have strong experience working and leading multidisciplinary teams in Australia,
-Germany, South East Asia, UK, and Colombia.
+Germany, South East Asia, UK, and Colombia.<align="justify">
   </p>
    <h2>Skills</h2>
   <p>Python (basic), R, Molecular Dynamics, Gaussian, Project management Data analysis, and UNIX commands</p>
