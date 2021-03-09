@@ -21,7 +21,7 @@ Germany, South East Asia, UK, and Colombia.
   </p>
    <h2>Skills</h2>
   <p>Python (basic), R, Molecular Dynamics, Gaussian, Project management Data analysis, and UNIX commands</p>
-   <h2>Stuff</h2>
+   <h2>Codes</h2>
   <p><a href="https://github.com/ricardoparra747" target="_blank">GitHub</a></p>
   <h2>Contact</h2>
   <p><a href="https://www.linkedin.com/in/ricardo-andr%C3%A9s-parra-cruz-phd-a7265247/" target="_blank">Linkedin</a></p>
