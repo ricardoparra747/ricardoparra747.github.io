@@ -7,8 +7,8 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <img src="89206458_10157875734315336_7512461648305586176_o.jpg" alt="Simply Easy Learning" width="500"
-         height="500">
+  <img src="89206458_10157875734315336_7512461648305586176_o.jpg" alt="Simply Easy Learning" width="450"
+         height="450">
   <h1>Ricardo Parra-Cruz</h1>
   <h2>About</h2>
   <p align="justify">
@@ -26,6 +26,7 @@ Germany, South East Asia, UK, and Colombia.
   <p><a href="https://github.com/ricardoparra747" target="_blank">GitHub</a></p>
   <h2>Contact</h2>
   <p><a href="https://www.linkedin.com/in/ricardo-andr%C3%A9s-parra-cruz-phd-a7265247/" target="_blank">Linkedin</a></p>
+  <p><a href="https://www.https://twitter.com/ricardo_parrac?lang=en/" target="_blank">Twitter</a></p>
   <p id="command-prompt">>_</p>
 </body>
 </html>
