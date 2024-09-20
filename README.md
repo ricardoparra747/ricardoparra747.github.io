@@ -1,5 +1,5 @@
 # Ricardo's Portfolio
-Ricardo/Readme
+
 Hola! 👋  
 I am Ricardo, excited about portfolio, programming, data visualization, and AI/ML.
 
